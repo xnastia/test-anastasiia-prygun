@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test-anastasiia-prygun\\test-anastasiia-prygun.csproj",
+      "projectUniqueName": "C:\\Users\\anast\\Desktop\\test-anastasiia-prygun\\test-anastasiia-prygun.csproj",
       "projectName": "test-anastasiia-prygun",
-      "projectPath": "D:\\test-anastasiia-prygun\\test-anastasiia-prygun.csproj",
+      "projectPath": "C:\\Users\\anast\\Desktop\\test-anastasiia-prygun\\test-anastasiia-prygun.csproj",
       "packagesPath": "C:\\Users\\anast\\.nuget\\packages\\",
-      "outputPath": "D:\\test-anastasiia-prygun\\obj\\",
+      "outputPath": "C:\\Users\\anast\\Desktop\\test-anastasiia-prygun\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
